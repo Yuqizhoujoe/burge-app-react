@@ -1,0 +1,15 @@
+.ContactData {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.ContactData Form {
+    width: 500px;
+}
+
+.Button Button {
+    margin-right: 8px;
+}
