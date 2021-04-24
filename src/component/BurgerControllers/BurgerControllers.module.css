@@ -1,0 +1,17 @@
+.BurgerControllers {
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: auto;
+    padding: 10px 0;
+}
+
+.OrderButton {
+    outline: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 1.2em;
+    padding: 15px 30px;
+}
